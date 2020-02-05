@@ -6,6 +6,10 @@ I created this page to track my progress, the time spent on coding/learning to c
 ## Weekly Progress Notes
 *The goal is to dedicate at least 7 hours each week (1 hour/day) outside of bootcamp or work time as denoted by ^ when it is a good week.  Weeks are defined as Monday through Sunday and is ordered by most recent. Time is tracked with [Toggle](https://toggl.com/) (best app ever!).*
 
+**WEEK 39: 01/26/2020 - 02/02/2020: hrs mins = (18:47 BC + 13:28 Other)**
+-   Week 4 of the bootcamp was very much a break, since it was going over HTML, CSS, the [Foundation Framework](https://foundation.zurb.com/), DOM Manipulation, and JQuery, though mostly on the HTML and CSS for the benifit of my classmates who do not have experience in it. 
+-   I spent a little over 2 hours on a React course on Codecademy. It is still yet to be completed (along with the other React material)
+
 **WEEK 38: 01/20/2020 - 01/26/2020: 25hrs 22mins = (20:16 BC + 5:27 Other)**
 -   Week 3 in the bootcamp was all about classes and testing in [Jest](https://jestjs.io/). I didn't get the point of classes previously, but after several assignments AND working it in Jest, I goddamn love classes and it makes so much sense. I enjoyed the assignments this week and it's starting to feel like it is ramping up. There was actually an assignment that I didn't fully complete (the assignments usually have a hard mode section), but I would like to complete this problem set since I've been formulating on how to solve it for several days now!
 -   Since React is going to start next week, the non-bootcamp time spent was mostly working on various React resources. I am going through the React section in [Andrei Neagoie's Zero to Mastery course](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) and also the [Codecademy's Learn React part 1](https://www.codecademy.com/learn/react-101) and [part 2](https://www.codecademy.com/learn/react-102). I still need to finish the React section in Angela Yu's course. It's almost done, I promise!
