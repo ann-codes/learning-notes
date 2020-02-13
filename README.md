@@ -6,6 +6,10 @@ I created this page to track my progress, the time spent on coding/learning to c
 ## Weekly Progress Notes
 *The goal is to dedicate at least 7 hours each week (1 hour/day) outside of bootcamp or work time as denoted by ^ when it is a good week.  Weeks are defined as Monday through Sunday and is ordered by most recent. Time is tracked with [Toggle](https://toggl.com/) (best app ever!).*
 
+
+**WEEK 40: 02/03/2020 - 02/09/2020: hrs mins = (28:16 BC + 6:03 Other)**
+-   Week 5 is totally ramping up in much less familiar territory that I had struggled with previously. We are now working through using Express.js w/ node. 
+
 **WEEK 39: 01/26/2020 - 02/02/2020: hrs mins = (18:47 BC + 13:28 Other)**
 -   Week 4 of the bootcamp was very much a break, since it was going over HTML, CSS, the [Foundation Framework](https://foundation.zurb.com/), DOM Manipulation, and JQuery, though mostly on the HTML and CSS for the benifit of my classmates who do not have experience in it. 
 -   I spent a little over 2 hours on a React course on Codecademy. It is still yet to be completed (along with the other React material) and another 1.5 hours on the React section in Andrei Neagoie's course. A bit of time was spent watching another CS50 class lecture. 
