@@ -7,8 +7,16 @@ I created this page to track my progress, the time spent on coding/learning to c
 *The goal is to dedicate at least 7 hours each week (1 hour/day) outside of bootcamp or work time as denoted by ^ when it is a good week.  Weeks are defined as Monday through Sunday and is ordered by most recent. Time is tracked with [Toggle](https://toggl.com/) (best app ever!).*
 
 
+**WEEK 41: 02/10/2020 - 02/16/2020: hrs mins = (24:33 BC + 8:02^ Other)**
+-   Week 6 is now the "Intro to React" week. In all my preparation for React, I had been neck deep in learning React using class components. But we are strictly learning React in functional components and Hooks! It very confusing for me to start, but I found that learning it the old way really helped me pick up the useState hooks very easily. 
+-   2 hours was spent finishing up the all of the (two) free Codecademy React courses: [Codecademy's Learn React part 1](https://www.codecademy.com/learn/react-101) and [part 2](https://www.codecademy.com/learn/react-102). About 2.5 hours was spent on [Colt Steele's Modern React Bootcamp](https://www.udemy.com/course/modern-react-bootcamp/) (which unfortunately focuses solely on the class components way, though he has an update near the end on functional components and hooks that I haven't gotten to yet). And another 3.5 hours was spent on [Angela Yu's Complete 2019 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)'s new React section. Thankfully Angela's lessons focuses specifically on functional components and hooks, so her material has been my primary reference. 
+
 **WEEK 40: 02/03/2020 - 02/09/2020: hrs mins = (28:16 BC + 6:03 Other)**
--   Week 5 is totally ramping up in much less familiar territory that I had struggled with previously. We are now working through using Express.js w/ node. 
+-   Week 5 is totally ramping up in much less familiar territory that I had struggled with previously. We are now working through using Express.js w/ node. [Handlebars.js](https://handlebarsjs.com/) was the templating libarary that we used. 
+-   Aside from working through a ton Express and Handlebars excerises, about 2.5hrs during the week was spent watching Express related videos on Lynda.com so I can keep up. 
+-   I ended up with another "Exceeds Expectations" for the Friday test and I certainly understand Express much better. 
+-   In retrospect, if the Hackathon occurred after this particular week, I would have had a much easier time to hook everything up and actually get the project to an MVP level instead of the broken mess that it was. 
+-   During the weekend, it was finally prepping for React for next week. I spent about 3.5 hours in attempting to refactor my old rock, paper, scissors project into React as practice and continued on with the Codecademy free React courses. 
 
 **WEEK 39: 01/26/2020 - 02/02/2020: hrs mins = (18:47 BC + 13:28 Other)**
 -   Week 4 of the bootcamp was very much a break, since it was going over HTML, CSS, the [Foundation Framework](https://foundation.zurb.com/), DOM Manipulation, and JQuery, though mostly on the HTML and CSS for the benifit of my classmates who do not have experience in it. 
