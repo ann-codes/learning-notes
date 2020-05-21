@@ -6,14 +6,18 @@ I created this page to track my progress, the time spent on coding/learning to c
 ## Weekly Progress Notes
 *The goal is to dedicate at least 7 hours each week (1 hour/day) outside of bootcamp or work time as denoted by ^ when it is a good week.  Weeks are defined as Monday through Sunday and is ordered by most recent. Time is tracked with [Toggle](https://toggl.com/) (best app ever!).*
 
+*Note: Weeks 48 onward was updated way after the fact on May 21st so there may not be as much detail.*  
+
+**WEEK 50: 04/13/2020 - 04/19/2020: hrs mins = (21:22 BC + 00:50 Other)**
+-   Week 15 is when it starts getting interesting as we go into the Spring framework. There wasn't too much issues of note in terms of the learning process and the material and I found myself really enjoying Spring. The initial Java material leading up to Spring was to illustrate how it used to be done (painfully) before the framework's proliferation which I am not too sure we should have spent so much time on the lead up. I feel like Spring could have been introduced a week earlier and is indeed complex enough to fill the time. Spring certainly makes things a whole lot easier. 
+-   I watched a [Learning Spring w/ Spring Boot](https://www.lynda.com/Spring-tutorials/Learning-Spring-Spring-Boot/2824009-2.html) on Lynda.com (while on the stationary bike, double duty!) to get a bit more exposure on the framework. It's actually a pretty good one to watch after this particular week since he uses a very similar stack to what was taught in the bootcamp.  
+
 **WEEK 49: 04/06/2020 - 04/12/2020: hrs mins = (27:08 BC)**
--   *Note: I am starting to update these way after the fact on May 21st, so there may not be as much detail.*  
 -   Week 14 is on JSPs and Servlets. I was initially feeling overwhelmed with the new infomation at this point. There were also some errors in our learning material which also didn't help with confidence, but after working through the problems,  debugging, and finally getting it, it helped calm me down a bit.
 -   We were given 4 hours to work on the test this week as opposed to the usual 3 due to the initial confusion from the errors on the material. But in the end, I personally did not use the whole 4 hours and still managed to get another EE. 
 -   At this point, I am no longer working on anything else outside of the bootcamp. I suppose it was a good time to stop the MOOC because we are getting well past what it is teaching (more data structures) vs the bootcamp curriculm (going into frameworks). The stress and anxiety from the pandemic has also started to take a toll on me and I needed to stop demanding too much of myself at this point and needed to focus on self care. 
 
 **WEEK 48: 03/30/2020 - 04/05/2020: hrs mins = (27:46 BC + 3:22 Other)**
--   *Note: I am starting to update these way after the fact on May 21st, so there may not be as much detail.*  
 -   Week 13, we are finally going into databases with Java using Hibernate and learning more about the quirks of Java, such as its reliance on @Annotations. 
 -   This time around we are getting used to the configuration in Java. Hoo boy, there's a lot and it can be such a headache. I did manage to get another EE this test, but just barely because the set-up and config (and then debugging if done incorrectly) took a big chunk of the time. 
 -   For the MOOC, I encountered bugs in the program where I would pass the tests and compile fine on my machine but once it is uploaded to the server, there are compiling errors on the server end. Previously, I was able to solve these issues as they arose, but not this time. It got to the point where I would copy and paste several other people's passed code and try to submit it and still get the server compiling errors. This is particularly irritating because advancing to the next lesson is dependant on completing the previous lesson. These errors aren't due to my code being incorrect or not passing the test, but rather the compiling in their servers that is the problem. They have a way of checking the code manually and I've made a request, but at this point, I cannot advance any further in the MOOC. What a disappointment.  
