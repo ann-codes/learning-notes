@@ -6,7 +6,14 @@ I created this page to track my progress, the time spent on coding/learning to c
 ## Weekly Progress Notes
 *The goal is to dedicate at least 7 hours each week (1 hour/day) outside of bootcamp or work time as denoted by ^ when it is a good week.  Weeks are defined as Monday through Sunday and is ordered by most recent. Time is tracked with [Toggle](https://toggl.com/) (best app ever!).*
 
-**WEEK 47: 03/23/2020 - 03/29/2020: hrs mins = (20:29 BC + 0000 Other)**
+
+**WEEK 48: 03/30/2020 - 04/05/2020: hrs mins = (27:46 BC + 3:22 Other)**
+-   *Note: I am starting to update these way after the fact on May 21st, so there may not be as much detail.*  
+-   Week 13, we are finally going into databases with Java using Hibernate and learning more about the quirks of Java, such as its reliance on @Annotations. 
+-   This time around we are getting used to the configuration in Java. Hoo boy, there's a lot and it can be such a headache. I did manage to get another EE this test, but just barely because the set-up and config (and then debugging if done incorrectly) took a big chunk of the time. 
+-   I am still chugging along with the MOOC but have started encountering bugs in the program where I would pass the tests but once it is uploaded to the server, there are some errors once it hits the servers and is compiled there. At this point, I learned enough from the bootcamp and other material to start understanding error messages and debugging these issues on my own. This is particularly annoying because advancing to the next lesson is dependant on completing the previous lesson and most of the times, these errors aren't due to the code being incorrect, but rather the compiling in their servers that is the problem. 
+
+**WEEK 47: 03/23/2020 - 03/29/2020: hrs mins = (20:29 BC + 10:30 Other)**
 -   We are now heading into the 2nd remote week, Week 12, Java Data Structures. As the name describes, it is all about List,  Maps (and more on interfaces), and dipping our toes into reading and writing JSON files. The work consists of mostly drills (my favorite) though it is slightly annoying because I do not yet know all the utils and (convenience) methods in Java, so I can't be as concise or clever as I was in JS. I am still feeling generally ambivalent about Java, it is what it is. Hopefully it will grow on me eventually. I am still holding my "Exceeds Expectations" perfect streak, but I am trying not to stress over it anymore.
 -   The bootcamp homework for the weekend was rather light and quickly finished, so I have some extra time to work on the MOOC (among other things). I *finally* finished Part 6 of the MOOC and am now moving on to Part 7 which consists of multi-part drills, mostly on ArrayLists. Their readings on structuring classes in Part 6 was very enlightening and extra practice is always helpeful w/ Part 7. I also do enjoy the fact that it gives me insight into another way of doing things with Java as opposed to only the view of the bootcamp. 
 
