@@ -8,8 +8,24 @@ I created this page to track my progress, the time spent on coding/learning to c
 
 *Note: Weeks 48 onward was updated way after the fact on May 21st so there may not be as much detail.*  
 
-**Postscript and Resource List**
--   
+**Postscript**
+On May 20th, 2020, I received a letter from myself from the past, sent via the very awesome [Futureme.org](https://www.futureme.org/) dated on May 20th, 2019: 
+
+>Dear FutureMe,
+>Hey, I hope things are going well with life right now. I know you're learning how to code and so far, it's been really frustrating right now but I feel like I am slowly getting it. Are you still running your slack group? Are you going to meetups? I hope you are much more far along than I am right now and that you have already built many amazing things that I would not have imagined to have been able to do right now. I hope you are also in a better place with the work situation as well. Heck, maybe you're enrolled in a bootcamp right now or will be planning to quit your job and/or you are interviewing for a dev job right now!
+>I am really excited for you! I have really high hopes and expectations for you right now and I hope you are meeting them or are coming close. You can do it! Just keep chugging along! As long as you put in 1% a day, it will eventually get to 100% and you will get there. I am rooting for you!
+>Love,
+>PastMe
+
+It's no surprise that I had completely forgotten about this letter. I was about a month into learning Javascript and programming concepts and I recall having a particularly *hard time* understanding it and getting it to stick. It's a fundamental shift in a way of thinking and it was not an easy task to change. I was also having a not-so-great time at the day job so this letter was a form of escapism to hope for a better future. Who'd have thunk I that by the time this letter was delivered, I'd actually be two days into working and getting paid as a **SOFTWARE ENGINEER** (that's my title!) at that time! Holy cow! It was an incredible amount of work and a long journey there, but I shocked myself by actually making it. With a lot of persistence, it is possible and dreams can come true!
+
+**Resource List**
+As always, I'd recommend anyone intending to go to a coding bootcamp to **understand the fundamentals** first by going through free or low cost resources. 
+
+
+The list below is what I'd recommend for my particular experience with Launch Academy that I personally used or wish I focused on more. 
+
+---
 
 **WEEK 54: 05/11/2020 - 05/10/2020: 23hrs 46mins = (22:28 BC + 01:17 Work)**
 -   Week 19, the last week of bootcamp! 
