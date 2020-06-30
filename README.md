@@ -3,12 +3,9 @@ Are you like me and you learning how to code? When one is stuck in the weeds of 
 
 I created this page to track my progress, the time spent on coding/learning to code, and wins and struggles along the way. This is done in tandem with going through the [#100DaysOfCode](https://twitter.com/AnnCodes). Check out the old [autodidact](https://ann-codes.github.io/autodidact/) progress before I joined the [LaunchAcademy Bootcamp](https://launchacademy.com/) through the [Apprenti Program](https://apprenticareers.org/) in Boston. 
 
-## Weekly Progress Notes
-*The goal is to dedicate at least 7 hours each week (1 hour/day) outside of bootcamp or work time as denoted by ^ when it is a good week.  Weeks are defined as Monday through Sunday and is ordered by most recent. Time is tracked with [Toggle](https://toggl.com/) (best app ever!).*
+---
 
-*Note: Weeks 48 onward was updated way after the fact on May 21st so there may not be as much detail.*  
-
-### **Postscript**
+## **Postscript**
 
 On May 20th, 2020, I received a letter from myself from the past, sent via the very awesome [Futureme.org](https://www.futureme.org/) dated on May 20th, 2019: 
 
@@ -24,7 +21,7 @@ On May 20th, 2020, I received a letter from myself from the past, sent via the v
 
 It's no surprise that I had completely forgotten about this letter. I was about a month into learning Javascript and programming concepts and I recall having a particularly *hard time* understanding it and getting it to stick. It's a fundamental shift in a way of thinking and it was not an easy task to change. I was also having a not-so-great time at the day job so this letter was a form of escapism to hope for a better future. Who'd have thunk I that by the time this letter was delivered, I'd actually be two days into working and getting paid as a **SOFTWARE ENGINEER** (that's my title!) at that time! Holy cow! It was an incredible amount of work and a long journey there, but I shocked myself by actually making it. With a lot of persistence, it is possible and dreams can come true!
 
-### **Resource List**
+## **Resource List**
 
 As always, I'd recommend anyone intending to go to a coding bootcamp to **understand the fundamentals** first by going through free or low-cost resources. If you can get to the point where you can code from scratch a Rock, Paper, Scissors game (even better if you can incorporate data structures), you will be in a better place to learn and absorb the material. Bootcamps are very fast and your first line of code should NOT be the first day of bootcamp. 
 
@@ -43,6 +40,11 @@ The list below is what I'd recommend for my particular experience with Launch Ac
 - [baeldung's Spring and Spring Boot course](https://www.baeldung.com/learn-spring-course) - Costs $197! Honestly, this is the one course I do not have any experience with and I don't even have access to determine how good it really is. However, because I relied so heavily on Baeldung.com as I was learning Java and Spring, I can't see this being a bad course to take if I had the time and the funds to do so. I think it would have been a great resource for me during the bootcamp. There are likely cheaper alternatives that can be found in Udemy. 
 
 ---
+
+## Weekly Progress Notes
+*The goal is to dedicate at least 7 hours each week (1 hour/day) outside of bootcamp or work time as denoted by ^ when it is a good week.  Weeks are defined as Monday through Sunday and is ordered by most recent. Time is tracked with [Toggle](https://toggl.com/) (best app ever!).*
+
+*Note: Weeks 48 onward was updated way after the fact on May 21st so there may not be as much detail.*  
 
 **WEEK 54: 05/11/2020 - 05/10/2020: 23hrs 46mins = (22:28 BC + 01:17 Work)**
 -   Week 19, the last week of bootcamp! 
