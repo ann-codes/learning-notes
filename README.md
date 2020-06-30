@@ -8,7 +8,8 @@ I created this page to track my progress, the time spent on coding/learning to c
 
 *Note: Weeks 48 onward was updated way after the fact on May 21st so there may not be as much detail.*  
 
-**Postscript**
+### **Postscript**
+
 On May 20th, 2020, I received a letter from myself from the past, sent via the very awesome [Futureme.org](https://www.futureme.org/) dated on May 20th, 2019: 
 
 >Dear FutureMe,
@@ -23,7 +24,8 @@ On May 20th, 2020, I received a letter from myself from the past, sent via the v
 
 It's no surprise that I had completely forgotten about this letter. I was about a month into learning Javascript and programming concepts and I recall having a particularly *hard time* understanding it and getting it to stick. It's a fundamental shift in a way of thinking and it was not an easy task to change. I was also having a not-so-great time at the day job so this letter was a form of escapism to hope for a better future. Who'd have thunk I that by the time this letter was delivered, I'd actually be two days into working and getting paid as a **SOFTWARE ENGINEER** (that's my title!) at that time! Holy cow! It was an incredible amount of work and a long journey there, but I shocked myself by actually making it. With a lot of persistence, it is possible and dreams can come true!
 
-**Resource List**
+### **Resource List**
+
 As always, I'd recommend anyone intending to go to a coding bootcamp to **understand the fundamentals** first by going through free or low-cost resources. If you can get to the point where you can code from scratch a Rock, Paper, Scissors game (even better if you can incorporate data structures), you will be in a better place to learn and absorb the material. Bootcamps are very fast and your first line of code should NOT be the first day of bootcamp. 
 
 Some decent introductory materials are the following: 
