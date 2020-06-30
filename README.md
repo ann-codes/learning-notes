@@ -12,18 +12,33 @@ I created this page to track my progress, the time spent on coding/learning to c
 On May 20th, 2020, I received a letter from myself from the past, sent via the very awesome [Futureme.org](https://www.futureme.org/) dated on May 20th, 2019: 
 
 >Dear FutureMe,
+
 >Hey, I hope things are going well with life right now. I know you're learning how to code and so far, it's been really frustrating right now but I feel like I am slowly getting it. Are you still running your slack group? Are you going to meetups? I hope you are much more far along than I am right now and that you have already built many amazing things that I would not have imagined to have been able to do right now. I hope you are also in a better place with the work situation as well. Heck, maybe you're enrolled in a bootcamp right now or will be planning to quit your job and/or you are interviewing for a dev job right now!
+
 >I am really excited for you! I have really high hopes and expectations for you right now and I hope you are meeting them or are coming close. You can do it! Just keep chugging along! As long as you put in 1% a day, it will eventually get to 100% and you will get there. I am rooting for you!
+
 >Love,
+
 >PastMe
 
 It's no surprise that I had completely forgotten about this letter. I was about a month into learning Javascript and programming concepts and I recall having a particularly *hard time* understanding it and getting it to stick. It's a fundamental shift in a way of thinking and it was not an easy task to change. I was also having a not-so-great time at the day job so this letter was a form of escapism to hope for a better future. Who'd have thunk I that by the time this letter was delivered, I'd actually be two days into working and getting paid as a **SOFTWARE ENGINEER** (that's my title!) at that time! Holy cow! It was an incredible amount of work and a long journey there, but I shocked myself by actually making it. With a lot of persistence, it is possible and dreams can come true!
 
 **Resource List**
-As always, I'd recommend anyone intending to go to a coding bootcamp to **understand the fundamentals** first by going through free or low cost resources. 
+As always, I'd recommend anyone intending to go to a coding bootcamp to **understand the fundamentals** first by going through free or low-cost resources. If you can get to the point where you can code from scratch a Rock, Paper, Scissors game (even better if you can incorporate data structures), you will be in a better place to learn and absorb the material. Bootcamps are very fast and your first line of code should NOT be the first day of bootcamp. 
 
+Some decent introductory materials are the following: 
+- [codecademy.com](https://www.codecademy.com/learn) - They push for their subscriptions hard, but you can X out to ignore the marketing and do the free intro-level courses. Codecademy is a good introduction to programming as the code editor is integrated so the user does not have to download or install anything and can get to coding right away. 
+- [udacity.com](https://www.udacity.com/courses/all) - They have a decent collection of free fundamental courses and includes an integrated IDE as well. 
+- [teamtreehouse.com](https://teamtreehouse.com/) - $25/month and is low cost enough that it is worth it if you want to work with videos; it has an integrated IDE. 
+- [freecodecamp.org](freecodecamp.org) - FCC is more project-based and does not hold your hand as much, but there are lots of outside material and a robust forum that you can rely on if you get stuck. 
+- [theOdinProject.com](https://www.theodinproject.com/) - This is also project-based and even less hand-holdy as FCC; they also have a great community on Discord; I prefer TOP more than FCC because part of the assignments is making pull requests to their code which is a gentle way of introducing you to Git and Github.
+- [Havard CS50 Courses](https://www.edx.org/search?q=cs50) - There are a series of courses building on the initial Intro to CS Course, such as web dev, machine learning, video games, and mobile dev if there is a particular area that is of interest. I personally only reviewed the Intro Course to CS videos and did not do any assignments, but from what I can see, it is pretty good. 
 
-The list below is what I'd recommend for my particular experience with Launch Academy that I personally used or wish I focused on more. 
+The list below is what I'd recommend for my particular experience with Launch Academy that I used or wish I focused on more:
+- [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) - I would skip the HTML/CSS parts. The focus should be on the React section if you are having trouble with it as she teaches with React 16+ with Hooks and functional components instead of class components. Class components and setState() are still good to know because there are plenty of codebases that still include it and you will need to know your way around. 
+- [FullstackOpen.com](https://fullstackopen.com/en) - From the University of Helsinki, this course goes into a lot of the same stack as the Launch Academy curriculum. This course is something I wish I spent a whole lot more time on. 
+- [Java Programming](https://java-programming.mooc.fi/) - This is another excellent course from the University of Helsinki. Getting through the first of two parts of this course was what helped in my jumpstart in Java and familiarizing myself with a new language. 
+- [baeldung's Spring and Spring Boot course](https://www.baeldung.com/learn-spring-course) - Costs $197! Honestly, this is the one course I do not have any experience with and I don't even have access to the course to determine how good it really is. However, because I relied so heavily on Baeldung.com as I was learning Java and Spring, I can't see this being a bad course to take if I had the time and the funds to do so. There are likely cheaper alternatives that can be found in Udemy. 
 
 ---
 
